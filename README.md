@@ -68,30 +68,6 @@ GITHUB Pages
 - GraphQL / Heroku / Docker 
 - Advance React JS
 - MEAN Stack Course (With official certificate in MongoDB)
-</br>
-
-### <a href="https://www.instagram.com/veritechie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="veritechie" height="30" width="40" /></a>  <a href="https://www.instagram.com/veritechie" target="_blank">Veritechie</a>
-My objective is to be able to share and motivate people who feel a strong concern for development, programming and the technology sector. I have always been able to transmit good feelings when communicating with others and I am always willing to help, that is why I enjoy providing the necessary information to all those interested in technology. <a href="https://www.instagram.com/veritechie" target="_blank">We are almost already 80K!</a>
-</br>
-
-### 🗣 Veronica as speaker
-[<img align="left" height="94px" width="94px" alt="Coders" src="http://www.emperiial.de/wp-content/uploads/2020/01/9xEsZ-ph_400x400.jpg"/>](https://www.instagram.com/p/CcBYOECjp6s/) 
-**Colloquium of Women for Change 👩‍💻CODERS** \
-Talk to inspire future generations about great opportunities
-that offers the figure of women in technology and Esports sectors [Click to see](https://www.instagram.com/p/CcBYOECjp6s/) 
-
----
-[<img align="left" height="94px" width="94px" alt="Santander & Mongo DB" src="https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/04/bf/63/04bf633d-c2d9-032c-46e7-a92fe2208ab1/AppIcon-0-1x_U007emarketing-0-0-sRGB-85-220-0-10.png/1024x1024.jpg"/>](https://www.instagram.com/tv/CZzVgSdFGU1/?igshid=MDJmNzVkMjY%3D) 
-**Technology has no gender** \
-Visibility of women in the world of Technology, know the factors that weaken women in the Steam career. Very important for our society. [Click to see](https://www.instagram.com/tv/CZzVgSdFGU1/) 
-
----
-[<img align="left" height="94px" width="94px" alt="Santander & Mongo DB" src="https://g.foolcdn.com/art/companylogos/square/mdb.png"/>](https://www.youtube.com/watch?v=MEkkblYUEOM) 
-**The Future of Women in Tech Summit | Banco Santander & Mongo DB** \
-A session led by inspiring women that have built a successful career in the IT sector. We will break stereotypes and gender barriers, reinforce the value of diversity for business innovation, and help you get ready to lead the future. [Click to see](https://www.youtube.com/watch?v=MEkkblYUEOM) 
-
---- 
-</br>
 
 ### Sometimes I write 
  
@@ -103,12 +79,8 @@ A session led by inspiring women that have built a successful career in the IT s
 
 <table>
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veroMoreno&theme=radical&card_width=450em)](https://github.com/veroMoreno/veroMoreno/github-readme-stats"/></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veroMoreno&theme=radical&card_width=450em)](https://github.com/giovanyosorio/giovanyosorio/github-readme-stats"/></td>
     <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=veroMoreno&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
   </tr>
 </table>
-
-
-#### 🎧 I love music! | Spotify Playing
-[<img src="https://spotify-now-playing-kappa.vercel.app/api/spotify-playing" alt="spotify playing" width="350" />]()
 
