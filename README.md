@@ -79,8 +79,8 @@ GITHUB Pages
 
 <table>
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veroMoreno&theme=radical&card_width=450em)](https://github.com/giovanyosorio/giovanyosorio/github-readme-stats"/></td>
-    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=veroMoreno&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanyosorio&theme=radical&card_width=450em)](https://github.com/giovanyosorio/giovanyosorio/github-readme-stats"/></td>
+    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovanyosorio&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
   </tr>
 </table>
 
