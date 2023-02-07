@@ -73,12 +73,15 @@ GITHUB Pages
  
 
 
-<a href="https://dev.to/veritechie">  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
+<a href="https://dev.to/giovanyosorio">  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
+
 
 ### Github Stats:
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giovanyosorio&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovanyosorio&langs_count=8)](https://github.com/giovanyosorio/github-readme-stats)
+<table>
+  <tr>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanyosorio&theme=radical&card_width=450em)](https://github.com/giovanyosorio/giovanyosorio/github-readme-stats"/></td>
+    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovanyosorio&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
+  </tr>
+</table>
 
