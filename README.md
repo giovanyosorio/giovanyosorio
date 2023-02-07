@@ -77,17 +77,8 @@ GITHUB Pages
 
 ### Github Stats:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giovanyosorio)](https://github.com/giovanyosorio/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giovanyosorio&hide=contribs,prs)
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giovanyosorio&show_icons=true)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giovanyosorio&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovanyosorio&langs_count=8)](https://github.com/giovanyosorio/github-readme-stats)
-
-
-
 
