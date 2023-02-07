@@ -77,8 +77,17 @@ GITHUB Pages
 
 ### Github Stats:
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giovanyosorio)](https://github.com/giovanyosorio/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giovanyosorio&hide=contribs,prs)
 
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giovanyosorio&show_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giovanyosorio&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovanyosorio&langs_count=8)](https://github.com/giovanyosorio/github-readme-stats)
+
+
+
 
