@@ -84,18 +84,3 @@ GITHUB Pages
     <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovany&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
   </tr>
 </table>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovanyosorio&hide_progress=true)](https://github.com/giovanyosorio/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovanyosorio&exclude_repo=github-readme-stats,giovanyosorio.github.io)](https://github.com/giovanyosorio/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovanyosorio&hide=javascript,html)](https://github.com/giovanyosorio/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovanyosorio&langs_count=8)](https://github.com/giovanyosorio/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovanyosorio&layout=compact)](https://github.com/giovanyosorio/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giovanyosorio&hide_progress=true)](https://github.com/giovanyosorio/github-readme-stats)
-
