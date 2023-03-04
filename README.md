@@ -41,7 +41,6 @@ GITHUB Pages
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 </p>
 <h4>Backend Development</h4>
 <p>
@@ -68,19 +67,3 @@ GITHUB Pages
 - GraphQL / Heroku / Docker 
 - Advance React JS
 - MEAN Stack Course (With official certificate in MongoDB)
-
-### Sometimes I write 
- 
-
-
-<a href="https://dev.to/giovanyosorio">  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a>
-
-
-### Github Stats:
-
-<table>
-  <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovanyosorio&theme=radical&card_width=450em)](https://github.com/giovanyosorio/giovanyosorio/github-readme-stats"/></td>
-    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovany&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
-  </tr>
-</table>
