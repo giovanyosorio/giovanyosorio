@@ -72,3 +72,44 @@ GITHUB Pages
 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
  
+## 🛠 Some tecnologies that I like to work with
+
+![ReactNative](https://img.shields.io/badge/-React%20Native-black?style=flat&logo=react)
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat&logo=redux)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
+![Styled Components](https://img.shields.io/badge/-Styled%20Components-black?style=flat&logo=styled-components)
+![Chakra](https://img.shields.io/badge/-chakra-black?style=flat&logo=chakraui)
+![MUI](https://img.shields.io/badge/-MUI-black?style=flat&logo=mui)
+![Next](https://img.shields.io/badge/-next-black?style=flat&logo=next.js)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel)
+
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=Firebase)
+![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat&logo=heroku)
+
+![Vite](https://img.shields.io/badge/-vite-black?style=flat&logo=vite)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
+![Fastlane](https://img.shields.io/badge/-Fastlane-black?style=flat&logo=fastlane)
+
+## 📈 My GitHub Stats
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=giovanyosorio&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=giovanyosorio&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=giovanyosorio&show_icons=true" />
+</picture>
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=giovanyosorio&theme=blue-green)
