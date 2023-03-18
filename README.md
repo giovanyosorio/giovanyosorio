@@ -30,23 +30,19 @@ GITHUB Pages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
 ![Styled Components](https://img.shields.io/badge/-Styled%20Components-black?style=flat&logo=styled-components)
-![Chakra](https://img.shields.io/badge/-chakra-black?style=flat&logo=chakraui)
-![MUI](https://img.shields.io/badge/-MUI-black?style=flat&logo=mui)
 ![Next](https://img.shields.io/badge/-next-black?style=flat&logo=next.js)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel)
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=Firebase)
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat&logo=heroku)
 
-![Vite](https://img.shields.io/badge/-vite-black?style=flat&logo=vite)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
-![Fastlane](https://img.shields.io/badge/-Fastlane-black?style=flat&logo=fastlane)
+
 
 ## 📈 My GitHub Stats
 
