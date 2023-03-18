@@ -42,7 +42,7 @@ GITHUB Pages
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
-
+![Unity](https://img.shields.io/badge/-unity-black?style=flat&logo=unity)
 
 ## 📈 My GitHub Stats
 
