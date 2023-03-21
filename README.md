@@ -57,4 +57,4 @@ GITHUB Pages
 <img src="https://github-readme-stats.vercel.app/api?username=giovanyosorio&show_icons=true" />
 </picture>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=giovanyosorio&theme=blue-green)
+
