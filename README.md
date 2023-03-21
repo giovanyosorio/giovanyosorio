@@ -26,11 +26,9 @@ GITHUB Pages
 
 
 ![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat&logo=redux)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![Express](https://img.shields.io/badge/-express-black?style=flat&logo=express)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
-![Styled Components](https://img.shields.io/badge/-Styled%20Components-black?style=flat&logo=styled-components)
 ![Next](https://img.shields.io/badge/-next-black?style=flat&logo=next.js)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel)
 
