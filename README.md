@@ -8,8 +8,7 @@
 
 
 <a href="https://giovanyosorio.github.io" target="_blank">My GITHUB Page</a>
-<a href="https://www.WordPress.com" target="_blank">WordPress Homepage</a>
-<a href="https://img.shields.io/badge/-React-black?style=flat&logo=react" target="_blank">WordPress Homepage</a>
+<a href="https://www.w3schools.com" target="_blank">Visit W3Schools.com!</a> 
 
 ## 🛠 Some tecnologies that I like to work with
 
