@@ -4,10 +4,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-https://giovanyosorio.github.io
-GITHUB Pages
 
- 
+
+<h1 align="center">https://giovanyosorio.github.io -My GITHUB Page</h1>
+
+
 ## 🛠 Some tecnologies that I like to work with
 
 
