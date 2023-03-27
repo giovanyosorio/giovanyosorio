@@ -6,7 +6,7 @@
 </p>
 
 
-<h4 align="center"> --<a href=https://giovanyosorio.github.io>My GITHUB Page</a>--</h4>
+<h4 align="center"> --<a href=https://giovanyosorio.github.io target="_blank">My GITHUB Page</a>--</h4>
 
 
 ## 🛠 Some tecnologies that I like to work with
