@@ -8,7 +8,7 @@
 
 
 <a href=https://giovanyosorio.github.io target="_blank">My GITHUB Page</a>
-
+<a href="https://www.WordPress.com" target="_blank">WordPress Homepage</a>
 
 ## 🛠 Some tecnologies that I like to work with
 
