@@ -7,20 +7,6 @@
 # giovanyosorio.github.io
 GITHUB Pages
 
-
-<!--div style="text-align:center"><img src="./img/welcome.png" alt="background" style="width:70%; margin-left:auto; margin-right:auto; display: block; width:300px"/></div-->
-
-```shell
- { “name” : “Giovany Osorio”,
-   “role” : “Backend Dev | MERN Stack”,
-   “data” : 
-     { 
-      "Linkedin" : "https://www.linkedin.com/in/giovanyosorio/", 
-      "Resume"   : "https://https://giovanyosorio.github.io//",
-      "IG"       : "https://www.instagram.com/go_go_79"
-     }
- }
-```
  
 ## 🛠 Some tecnologies that I like to work with
 
