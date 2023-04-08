@@ -29,7 +29,8 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
 ![Unity](https://img.shields.io/badge/-unity-black?style=flat&logo=unity)
-![GraphQl](https://img.shields.io/badge/-graphql-black?style=flat&logo=grapql)
+![GraphQl](https://img.shields.io/badge/-graphql-black?style=flat&logo=graphql)
+
 ## 📈 My GitHub Stats
 <picture>
 <source 
