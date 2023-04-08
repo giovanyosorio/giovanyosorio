@@ -29,9 +29,8 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
 ![Unity](https://img.shields.io/badge/-unity-black?style=flat&logo=unity)
-![Unity](https://img.shields.io/badge/-unity-black?style=flat&logo=unity)
-## 📈 My GitHub Stats![Unity](https://img.shields.io/badge/-unity-black?style=flat&logo=unity)
-
+![GraphQl](https://img.shields.io/badge/-unity-black?style=flat&logo=grapql)
+## 📈 My GitHub Stats
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=giovanyosorio&show_icons=true&theme=dark"
