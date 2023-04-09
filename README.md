@@ -26,10 +26,10 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat&logo=heroku)
 
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)
-![Unity](https://img.shields.io/badge/-unity-black?style=flat&logo=unity)
-![GraphQl](https://img.shields.io/badge/-graphql-black?style=flat&logo=graphql)
+![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub)
+![Unity](https://img.shields.io/badge/-Unity-black?style=flat&logo=Unity)
+![GraphQl](https://img.shields.io/badge/-GraphQl-black?style=flat&logo=GraphQl)
 
 ## 📈 My GitHub Stats
 <picture>
