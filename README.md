@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Giovany Osorio</h1>
-<h2 align="center">A passionate backend developer from Colombia-CO</h2>
+<h2 align="center">A passionate software developer from Colombia-CO</h2>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
