@@ -7,7 +7,7 @@
 
 
 
-<a href="https://giovanyosorio.github.io" align="center" target="_blank">My GITHUB Page</a>
+<a href="https://giovanyosorio.github.io"   text-align: "center"   width: 100%;target="_blank">My GITHUB Page</a>
 
 ## 🛠 Some tecnologies that I like to work with
 
