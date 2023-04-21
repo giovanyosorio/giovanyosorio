@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Giovany Osorio</h1>
 <h2 align="center">A passionate software developer from Colombia-CO</h2>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 </p>
 
 
 
-<a href="https://giovanyosorio.github.io" target="_blank">My GITHUB Page</a>
+<a href="https://giovanyosorio.github.io" align="center" target="_blank">My GITHUB Page</a>
 
 ## 🛠 Some tecnologies that I like to work with
 
