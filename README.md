@@ -6,42 +6,44 @@
 </p>
 
 
-
+<div align="center">
 <a href="https://giovanyosorio.github.io" target="_blank">My GITHUB Page</a>
+</div>
 
-## 🛠 Some tecnologies that I like to work with
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum quisquam tenetur voluptas aliquid asperiores! Voluptates ab blanditiis, ipsa pariatur temporibus omnis nobis, ratione commodi cupiditate tenetur fugit porro impedit odio.</p>
 
 
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
-![Express](https://img.shields.io/badge/-express-black?style=flat&logo=express)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)
-![Next](https://img.shields.io/badge/-next-black?style=flat&logo=next.js)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel)
+###
 
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=Firebase)
-![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat&logo=heroku)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="52" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" width="52" alt="wordpress logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" width="52" alt="vercel logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-original.svg" height="40" width="52" alt="graphql logo"  />
+</div>
 
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=Git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub)
-![Unity](https://img.shields.io/badge/-Unity-black?style=flat&logo=Unity)
-![GraphQl](https://img.shields.io/badge/-GraphQl-black?style=flat&logo=GraphQl)
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
 
 ## 📈 My GitHub Stats
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=giovanyosorio&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=giovanyosorio&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=giovanyosorio&show_icons=true" />
-</picture>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=giovanyosorio&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
