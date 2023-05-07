@@ -15,11 +15,6 @@
 
 ###
 
-<p align="left">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum quisquam tenetur voluptas aliquid asperiores! Voluptates ab blanditiis, ipsa pariatur temporibus omnis nobis, ratione commodi cupiditate tenetur fugit porro impedit odio.</p>
-
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
@@ -36,9 +31,6 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
-
-## 📈 My GitHub Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=giovanyosorio&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
