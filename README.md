@@ -8,7 +8,7 @@
 
 
 <div align="center">
-<a href="https://giovanyosorio.github.io" target="_blank">My GITHUB Page</a>
+<a href="https://giovanyosorio.github.io" target="_blank">My Page</a>
 </div>
 
 
