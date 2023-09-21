@@ -2,14 +2,11 @@
 
 <h2 align="center">A passionate software developer from Colombia-CO</h2>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with me:  <a href="https://giovanyosorio.github.io" target="_blank">My Page</a></h3>
 <p align="center">
 </p>
 
 
-<div align="center">
-<a href="https://giovanyosorio.github.io" target="_blank">My Page</a>
-</div>
 
 
 <h3 align="left">👩‍💻  Languages and Tools:</h3>
