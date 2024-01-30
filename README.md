@@ -13,7 +13,7 @@
 
 ###
 
-<div align="center">
+<div align="center" border="1px solid white">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
@@ -26,4 +26,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" width="52" alt="unity logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" height="40" width="52" alt="spss logo"  />
+  
+</div>
+
+
+
+<h3 align="center">Daily Dev </h3>
+<div align="center" >
+  
+<a alignc href="https://app.daily.dev/gio799"><img src="https://api.daily.dev/devcards/b5633621588644f88e045b6e39546b2f.png?r=3qm" width="400" alt="Giovany's Dev Card"/></a>
+
 </div>
