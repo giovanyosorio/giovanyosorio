@@ -31,8 +31,4 @@
 
 
 
-<h3 align="center">Daily Dev </h3>
-<div align="center" >
-  
-<a href="https://app.daily.dev/gio799"><img src="https://api.daily.dev/devcards/b5633621588644f88e045b6e39546b2f.png?r=yrk" width="400" alt="Giovany's Dev Card"/></a>
-</div>
+
