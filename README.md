@@ -1,6 +1,5 @@
 <h1 align="center">I'm Giovany   Osorio</h1>
 <h2 align="center">A passionate software developer</h2>
-
 <h3 align="center">Connect with me:  <a href="https://giovanyosorio.github.io" target="_blank">My Page</a></h3>
 <p align="center">
 </p>
