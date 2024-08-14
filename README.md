@@ -4,6 +4,7 @@
 <p align="center">
 </p>
 
+<a href="https://app.daily.dev/gio799"><img src="https://api.daily.dev/devcards/v2/Cf0VhcVl5vwLrQ5bVO0aA.png?type=default&r=qf1" width="356" alt="Giovany's Dev Card"/></a>
 
 <h3 align="left">👩‍💻  Languages and Tools:</h3>
 
